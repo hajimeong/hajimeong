@@ -3,11 +3,11 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙌Introduce </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 생년월일: 2002.08.01 </br></li>광운대학교 소프트웨어학부 재학중 </br></li></li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"></li>광운대학교 소프트웨어학부</br></br></br></br></li></li> </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div  align= "center"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+    <div  align= "center"> <br> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
@@ -25,21 +25,21 @@
           <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
           </div>
     </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <br> <img src="https://github-readme-stats.vercel.app/api?username=hajimeong&bg_color=60,e5cddd,b1bfe7&title_color=ffffff&text_color=ffffff"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajimeong&layout=compact&bg_color=60,e5cddd,b1bfe7&title_color=ffffff&text_color=ffffff"
+           /> <br>
+    </div> 
+    <div style="text-align: left;">
+             <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Baeckjoon  </h2>
+      <div align= "center"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nanmongjii" /> </div>
+           </div>
+    </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://velog.io/@mongjii> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@mongjii"> </a>
          <a href=https://coding-study-life.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://coding-study-life.tistory.com/"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=hajimeong&bg_color=60,e5cddd,b1bfe7&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajimeong&layout=compact&bg_color=60,e5cddd,b1bfe7&title_color=ffffff&text_color=ffffff"
-           /> 
-    </div> 
-    <div style="text-align: left;">
-             <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Baeckjoon  </h2>
-      <div align= "center"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nanmongjii" /> </div>
-           </div>
     </div>
     
