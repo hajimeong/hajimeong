@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jimyeong!
 
-더 나은 서비스를 만들고자 끊임없이 배우고 노력하며 성장하는 주니어 백엔드 개발자입니다. 
+안녕하세요, 더 나은 서비스를 만들고자 끊임없이 배우고 노력하며 성장하는 백엔드 개발자 하지명입니다. 
 
 
 <br>
@@ -25,14 +25,14 @@
 ## 🚀 Projects
 
 
-| 프로젝트 이름 | 프로젝트 간단 설명                               | 참여 파트             | 레포 링크                                                      |
+| Project | Desciption                               | Role | Repository                                                    |
 | ------- | ---------------------------------------- | ----------------- | ---------------------------------------------------------- |
-| 우레카 | 멀티 플레이 자동차 레이싱 게임| 백엔드 | [우레카](https://github.com/woowa-racing-car) |
-| +AS | 커리어 성장 매칭 앱, +AS: Add ( ) Skills | 백엔드 | [+AS](https://github.com/Enomdeul) |
-| 용돈좀 | 가정형 경제 교육 서비스 | 백엔드 | - |
-| DearE | 편지 보관 아카이빙 서비스 | 백엔드 | [디어리](https://github.com/UMC-DearE) |
-| Didit | AI 업무 회고 서비스 | 백엔드 | [디딧](https://github.com/ddiddit) |
-| 방체크 | 자취방 체크리스트를 통한 매물 비교 서비스 | 백엔드 | [BangCheck](https://github.com/BangCheck) |
+| 우레카 | 멀티 플레이 자동차 레이싱 게임| Backend | [우레카](https://github.com/woowa-racing-car) |
+| +AS | 커리어 성장 매칭 앱, +AS: Add ( ) Skills | Backend | [+AS](https://github.com/Enomdeul) |
+| 용돈좀 | 가정형 경제 교육 서비스 | Backend | - |
+| DearE | 편지 보관 아카이빙 서비스 | Backend | [디어리](https://github.com/UMC-DearE) |
+| Didit | AI 업무 회고 서비스 | Backend | [디딧](https://github.com/ddiddit) |
+| 방체크 | 자취방 체크리스트를 통한 매물 비교 서비스 | Backend | [BangCheck](https://github.com/BangCheck) |
 
 <br>
 
@@ -55,3 +55,5 @@
 ### 💡 Keep learning, keep building.
 
 </div>
+
+<br>
