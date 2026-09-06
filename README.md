@@ -31,7 +31,7 @@
 | +AS | 커리어 성장 매칭 앱, +AS: Add ( ) Skills | 백엔드 | [+AS](https://github.com/Enomdeul) |
 | 용돈좀 | 가정형 경제 교육 서비스 | 백엔드 | - |
 | DearE | 편지 보관 아카이빙 서비스 | 백엔드 | [디어리](https://github.com/UMC-DearE) |
-| Didit | AI 업무 회고 서비스 | 백엔드 | [GitHub](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY) |
+| Didit | AI 업무 회고 서비스 | 백엔드 | [디딧](https://github.com/ddiddit) |
 | 방체크 | 자취방 체크리스트를 통한 매물 비교 서비스 | 백엔드 | [BangCheck](https://github.com/BangCheck) |
 
 <br>
