@@ -5,7 +5,7 @@
 
 <br>
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Educations
 
 * 🎓 **광운대학교 소프트웨어학부**
 * 💻 **Backend Developer**
